@@ -1,6 +1,6 @@
 # Smart_heaters_MERN
 
-Smart_Heaters_MERN MERN application for manipulating "smart-heaters"
+Smart_Heaters_MERN MERN application for manipulating "smart-heaters" - working version on https://smart-heaters.netlify.app/
 
 TASK:
 
