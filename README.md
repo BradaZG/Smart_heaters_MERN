@@ -7,9 +7,3 @@ Made with: _React.js, HTML, CSS, Bootstrap/Reactstrap, React Hooks, Redux, React
 Deployed version - https://smart-heaters.netlify.app
 
 <hr>
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 1797ce0912b9d809d54b4b6a0083b53a662b2b7f
